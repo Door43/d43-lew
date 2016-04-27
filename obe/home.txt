@@ -1,9 +1,9 @@
-====== Complete List of Important Terms ======
+====== Complete List of translationWords - Kaliledo ======
 
-==== "Key Terms" and "Other Terms" in OBE: ====
+==== "Key Terms" and "Other Terms" in OBE Directory: ====
 
-  * [[:lew:obe:kt:home|Key Terms]]
-  * [[:lew:obe:other:home|Other Terms]]
+  * [[:lew:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:lew:obe:other:home|List of the Other Terms in the OBE Directory]]
 
 
 ==== All Terms in the OBE: ====
